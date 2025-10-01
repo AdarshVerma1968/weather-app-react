@@ -8,6 +8,12 @@ A React + Vite project that fetches real-time weather data using OpenWeatherMap 
 - Error handling for invalid entries
 - Responsive design
 
+## Tech Stack
+- React
+- Vite
+- Material-UI
+- OpenWeatherMap API
+
 ## Screenshots
 
 **Hot Weather**  
@@ -18,9 +24,3 @@ A React + Vite project that fetches real-time weather data using OpenWeatherMap 
 
 **Cold Weather**  
 ![Cold Weather](https://github.com/AdarshVerma1968/weather-app-react/blob/main/Screenshot%20(166).png?raw=true)
-
-## Tech Stack
-- React
-- Vite
-- Material-UI
-- OpenWeatherMap API
